@@ -1,4 +1,3 @@
-### Hi there 👋
 <div align="center">
 	<br>
 	<a href="https://github.com/rodrigofuentes/rodrigofuentes/blame/master/readme.svg">
