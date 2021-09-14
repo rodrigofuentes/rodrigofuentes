@@ -94,7 +94,7 @@
 				  z-index: 1;
 				} 
 				.hero > h1::before {
-				  content: 'Hi there';
+				  content: 'xxx';
 				  position: absolute;
 				  left: 3px;
 				  color: red;
@@ -102,7 +102,7 @@
 				  z-index: -1;
 				} 
 				.hero > h1::after {
-				  content: 'xxx';
+				  content: 'Hi there';
 				  position: absolute;
 				  left: 2px;
 				  color: blue;
