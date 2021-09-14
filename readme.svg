@@ -6,6 +6,20 @@
   font-size: 300%;
   --glitch-duration: 3s;
 }
+				
+				@keyframes gradientBackground {
+					0% {
+						background-position: 0% 50%;
+					}
+					50% {
+						background-position: 100% 50%;
+					}
+					100% {
+						background-position: 0% 50%;
+					}
+				}
+				
+				
 
 .body {
   width: 100%;
@@ -14,6 +28,9 @@
   position: absolute;
   top: 0;
   left: 0;
+				background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
+					background-size: 600% 400%;
+					animation: gradientBackground 10s ease infinite;
 }
 
 #hero {
