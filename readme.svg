@@ -2,7 +2,7 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-				@import url(https://fonts.googleapis.com/css?family=Montserrat);
+<!-- 				@import url(https://fonts.googleapis.com/css?family=Montserrat); -->
 				:root {
 				  font-size: 300%;
 				  --glitch-duration: 3s;
@@ -83,7 +83,7 @@
 				  width: 100%;
 				  height: 100%;
 				  color: white;
-				  font-family: 'Montserrat', sans-serif;
+				  font-family: 'Oswald', sans-serif;
 				}
 
 				.hero > h1 {
