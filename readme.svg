@@ -273,7 +273,7 @@
 				  }
 				}
 			</style>
-			<div class="container">
+<!-- 			<div class="container"> -->
 				<div class="hero">
 					      <h1>Hi there</h1>
 					      <h1>Hi there</h1>
@@ -282,9 +282,9 @@
 					      <h1>Hi there</h1>
 					
 			   	</div>
-				<span>👋</span>
+<!-- 				<span>👋</span> -->
 				
-			</div>
+<!-- 			</div> -->
 		</div>
 	</foreignObject>
 </svg>
