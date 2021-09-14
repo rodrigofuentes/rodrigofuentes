@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<button onclick="function(){console.log('hello world')}">Click me!</button>
 <!--
 **rodrigofuentes/rodrigofuentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
