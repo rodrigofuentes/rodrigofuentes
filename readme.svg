@@ -75,7 +75,7 @@
 				}
 			</style>
 			<div class="container">
-				<h1>Hi there</h1><span>👋</span>
+				<h1>Hi there<span>👋</span></h1>
 			</div>
 		</div>
 	</foreignObject>
