@@ -32,14 +32,14 @@
   transform: translate(-50%, -50%);
   z-index: 1;
 } #hero > h1::before {
-  content: 'GLITCH';
+  content: 'Hi there';
   position: absolute;
   left: 3px;
   color: red;
   opacity: 1;
   z-index: -1;
 } #hero > h1::after {
-  content: 'GLITCH';
+  content: 'Hi there';
   position: absolute;
   left: 2px;
   color: blue;
@@ -212,11 +212,11 @@
 			</style>
 			<div class="body">
 			<div id="hero">
-			      <h1>GLITCH</h1>
-			      <h1>GLITCH</h1>
-			      <h1>GLITCH</h1>
-			      <h1>GLITCH</h1>
-			      <h1>GLITCH</h1>
+			      <h1>Hi there</h1>
+			      <h1>Hi there</h1>
+			      <h1>Hi there</h1>
+			      <h1>Hi there</h1>
+			      <h1>Hi there</h1>
 		    	</div>	
 			</div>
 		</div>
