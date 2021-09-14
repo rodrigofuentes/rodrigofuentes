@@ -2,6 +2,7 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
+				@import url(https://fonts.googleapis.com/css?family=Montserrat);
 				:root {
 				  font-size: 300%;
 				  --glitch-duration: 3s;
@@ -82,7 +83,7 @@
 				  width: 100%;
 				  height: 100%;
 				  color: white;
-				  font-family: 'Oswald', sans-serif;
+				  font-family: 'Montserrat', sans-serif;
 				}
 
 				.hero > h1 {
@@ -93,7 +94,7 @@
 				  z-index: 1;
 				} 
 				.hero > h1::before {
-				  content: 'GLITCH';
+				  content: 'Hi there';
 				  position: absolute;
 				  left: 3px;
 				  color: red;
@@ -101,7 +102,7 @@
 				  z-index: -1;
 				} 
 				.hero > h1::after {
-				  content: 'GLITCH';
+				  content: 'Hi there';
 				  position: absolute;
 				  left: 2px;
 				  color: blue;
@@ -279,9 +280,9 @@
 					      <h1>Hi there</h1>
 					      <h1>Hi there</h1>
 					      <h1>Hi there</h1>
-					<span>👋</span>
+					
 			   	</div>
-
+				<span>👋</span>
 				
 			</div>
 		</div>
