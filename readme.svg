@@ -230,22 +230,16 @@
   }
 }
 				
-				span {
-				position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
-  z-index: 1;
-				}
+
 			</style>
 			<div class="body">
 			<div id="hero">
-			      <h1>Hi_there</h1>
-			      <h1>Hi_there</h1>
-			      <h1>Hi_there</h1>
-			      <h1>Hi_there</h1>
-			      <h1>Hi_there</h1>
-				<span>👋</span>
+			      <h1>Hi_there👋</h1>
+			      <h1>Hi_there👋</h1>
+			      <h1>Hi_there👋</h1>
+			      <h1>Hi_there👋</h1>
+			      <h1>Hi_there👋</h1>
+
 		    	</div>	
 			</div>
 		</div>
